@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiviWickramarachchi
 - 👀 I’m interested in Gaming and Game Dev
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Projects and AI projects
 - 📫 reach me on wickramarachchi.rivindu@gmail.com
 
 <!---
